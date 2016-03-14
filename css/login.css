@@ -1,0 +1,21 @@
+img{
+	width:100%;
+	height:300px;
+	border:15px;
+	border-radius:10px;
+	box-shadow:0 0 20px #666600;
+}
+
+h1{
+	font-family: 'Noto Sans', sans-serif;
+}
+
+iframe{
+	margin:15px;
+	margin-left:1000px;
+	margin-right:10px;
+	padding:15px;
+	border-radius:30px;
+	-moz-boder-radius:30px;
+	box-shadow:0 0 50px #611A1A;
+}
